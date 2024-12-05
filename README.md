@@ -1,5 +1,3 @@
-Berikut adalah versi yang diperbarui dan diperbagus untuk `README.md` Anda:
-
 ---
 
 # 👋 Halo, Selamat Datang di Profil GitHub Saya!  
@@ -23,7 +21,3 @@ Saya seorang mahasiswa di **Universitas Serang Raya** yang saat ini sedang aktif
 </p>  
 
 ---
-
-💻 **"Code, Learn, and Share"** – Itulah motto saya dalam belajar teknologi.  
-🚀 Mari bertumbuh bersama dan jadilah bagian dari komunitas teknologi yang lebih besar!
-
