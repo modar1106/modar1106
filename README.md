@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/mohamad-haidar-us220922">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mohamadhaidar0604@gmail.com">
+  <a href="mailtp:mohamadhaidar0604@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 
@@ -50,11 +50,6 @@ Berikut adalah teknologi dan alat yang sering saya gunakan atau sedang saya pela
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=modar1106&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="Haidar's GitHub Stats"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=modar1106&layout=compact&theme=algolia&hide_border=true&langs_count=6" alt="Most Used Languages"/>
   </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=modar1106&theme=algolia&hide_border=true" alt="Haidar's Streak" />
 </div>
 
 ---
