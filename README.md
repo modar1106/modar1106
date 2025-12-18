@@ -4,10 +4,10 @@
 
   ### 🚀 Aspiring Software Engineer | Mahasiswa @ Universitas Serang Raya
 
-  <a href="https://www.linkedin.com/in/mohamad-haidar-532972207">
+  <a href="https://www.linkedin.com/in/mohamad-haidar-us220922">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:email_anda@example.com">
+  <a href="mohamadhaidar0604@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 
@@ -23,8 +23,6 @@ Saat ini, saya sedang fokus mendalami:
 * 🔭 **Web & Mobile Development**
 * 🌱 Meningkatkan pemahaman tentang **Arsitektur Software**
 * 🎓 Menyelesaikan studi dan proyek akhir di **Universitas Serang Raya**
-
-> *"Dedikasi adalah kunci kompetensi."* — Saya telah membuktikannya melalui [Sertifikasi Dicoding](https://drive.google.com/file/d/1OpXzTcNdr1u1WFkMVddCWk6yQYdSy7IZ/view?usp=sharing) saya.
 
 ---
 
@@ -56,7 +54,7 @@ Berikut adalah teknologi dan alat yang sering saya gunakan atau sedang saya pela
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=modar1106&theme=algolia&hide_border=true" alt="Haidar's Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=modar1106&theme=algolia&hide_border=true" alt="Haidar's Streak" />
 </div>
 
 ---
@@ -66,6 +64,6 @@ Berikut adalah teknologi dan alat yang sering saya gunakan atau sedang saya pela
 Saya selalu terbuka untuk berdiskusi tentang teknologi, kolaborasi proyek, atau sekadar berbagi pengalaman seputar dunia pemrograman.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamad-haidar-532972207">Let's Connect on LinkedIn</a> • 
-  <a href="https://github.com/modar1106">Check My Repositories</a>
+  <a href="www.linkedin.com/in/mohamad-haidar-us220922">Let's Connect on LinkedIn</a> • 
+  <a href="https://github.com/modar1106?tab=repositories">Check My Repositories</a>
 </p>
