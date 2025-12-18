@@ -1,23 +1,71 @@
----
+# Hi there, I'm Mohamad Haidar! 👋
 
-# 👋 Halo, Selamat Datang di Profil GitHub Saya!  
+<div align="center">
 
-## 🙋‍♂️ Tentang Saya  
-Halo semua! Nama saya **Mohamad Haidar**.  
-Saya seorang mahasiswa di **Universitas Serang Raya** yang saat ini sedang aktif belajar dan mengembangkan keahlian di dunia teknologi melalui [Dicoding](https://www.dicoding.com/).  
+  ### 🚀 Aspiring Software Engineer | Mahasiswa @ Universitas Serang Raya
 
-🎓 **Tujuan saya** adalah menjadi **Pengembang Software** berkualitas dengan memanfaatkan ilmu pemrograman yang saya pelajari. Saya juga telah mendapatkan [sertifikasi Dicoding](https://drive.google.com/file/d/1OpXzTcNdr1u1WFkMVddCWk6yQYdSy7IZ/view?usp=sharing) sebagai bukti dedikasi dan kompetensi saya di bidang ini.  
-
-💡 Saya selalu terbuka untuk berdiskusi, berbagi pengalaman, atau berkolaborasi dalam proyek yang menarik! Jangan ragu untuk terhubung dengan saya melalui [LinkedIn](https://www.linkedin.com/in/mohamad-haidar-532972207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).  
-
----
-
-## 📊 Statistik GitHub Saya  
-<p align="center"> 
-  <a href="https://github.com/modar1106">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=modar1106&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats Mohamad Haidar"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=modar1106&layout=compact&theme=algolia" alt="Most Used Languages"/>
+  <a href="https://www.linkedin.com/in/mohamad-haidar-532972207">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-</p>  
+  <a href="mailto:email_anda@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+
+</div>
 
 ---
+
+## 🙋‍♂️ Tentang Saya
+
+Saya adalah seorang mahasiswa Teknik Informatika yang memiliki passion besar dalam **Pengembangan Perangkat Lunak**. Saya menikmati proses mengubah ide menjadi kode yang fungsional dan bermanfaat.
+
+Saat ini, saya sedang fokus mendalami:
+* 🔭 **Web & Mobile Development**
+* 🌱 Meningkatkan pemahaman tentang **Arsitektur Software**
+* 🎓 Menyelesaikan studi dan proyek akhir di **Universitas Serang Raya**
+
+> *"Dedikasi adalah kunci kompetensi."* — Saya telah membuktikannya melalui [Sertifikasi Dicoding](https://drive.google.com/file/d/1OpXzTcNdr1u1WFkMVddCWk6yQYdSy7IZ/view?usp=sharing) saya.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+Berikut adalah teknologi dan alat yang sering saya gunakan atau sedang saya pelajari:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/modar1106">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=modar1106&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="Haidar's GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=modar1106&layout=compact&theme=algolia&hide_border=true&langs_count=6" alt="Most Used Languages"/>
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=modar1106&theme=algolia&hide_border=true" alt="Haidar's Streak" />
+</div>
+
+---
+
+## 🤝 Mari Terhubung!
+
+Saya selalu terbuka untuk berdiskusi tentang teknologi, kolaborasi proyek, atau sekadar berbagi pengalaman seputar dunia pemrograman.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamad-haidar-532972207">Let's Connect on LinkedIn</a> • 
+  <a href="https://github.com/modar1106">Check My Repositories</a>
+</p>
